@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Catalog Movie</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Search . .</string>
+    <string name="sekarang_diputar">Now Playing</string>
+    <string name="segera_hadir">Up Coming</string>
+    <string name="detail_film">Detail Movie</string>
+    <string name="bahasa">Change Language</string>
+    <string name="vote">Vote</string>
+    <string name="popularity">Popularity</string>
+    <string name="rated">Rated</string>
+    <string name="rate">Rate This Movie</string>
+    <string name="error_message">Error connecting to server. Please try again</string>
+    <string name="tgl">Tanggal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

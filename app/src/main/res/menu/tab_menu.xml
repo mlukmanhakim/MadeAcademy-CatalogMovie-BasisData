@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/sekarang_diputar"
+        android:id="@+id/menu_sekarang_diputar"/>
+    <item android:title="@string/segera_hadir"
+        android:id="@+id/menu_segera_hadir"/>
+    <item android:title="@string/favorite_movie"
+        android:id="@+id/menu_favorite_movie"/>
+
+</menu>

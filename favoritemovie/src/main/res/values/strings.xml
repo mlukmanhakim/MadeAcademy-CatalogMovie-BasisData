@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Favorite Movie</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Telusuri . .</string>
+    <string name="sekarang_diputar">Sekarang</string>
+    <string name="segera_hadir">Segera</string>
+    <string name="detail_film">Detail Film</string>
+    <string name="bahasa">Ganti Bahasa</string>
+    <string name="vote">Memilih</string>
+    <string name="popularity">Popular</string>
+    <string name="rated">Rated</string>
+    <string name="rate">Tambah Ke Favorite</string>
+    <string name="error_message">Data Favorite Kosong</string>
+    <string name="tgl">Tanggal</string>
+    <string name="favorite_movie">Favorite</string>
+    <string name="ad_to_favorite">Add To Favorite</string>
+    <string name="remove_to_favorite">Remove From Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
