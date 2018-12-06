@@ -14,6 +14,7 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 
+import com.dicoding.lukman.favoritemovie.BuildConfig;
 import com.dicoding.lukman.favoritemovie.R;
 import com.dicoding.lukman.favoritemovie.model.FavoriteModel;
 
@@ -57,7 +58,7 @@ public class DetailMovie extends AppCompatActivity {
         String popularity = mResult.getPopularity().toString();
         String voteAverage = mResult.getVoteAverage().toString();
 
-        Glide.with(this).load("http://image.tmdb.org/t/p/w185"+mResult.getPosterPath()).into(ivPoster);
+        Glide.with(this).load(BuildConfig.IMAGE_URL+mResult.getPosterPath()).into(ivPoster);
         tvVoteCount.setText(voteCount);
         tvPopularity.setText(popularity);
         tvVoteAverage.setText(voteAverage);
@@ -78,8 +79,6 @@ public class DetailMovie extends AppCompatActivity {
                 setFavorite();
             }
         });
-
-
     }
 
     private void setFavorite(){

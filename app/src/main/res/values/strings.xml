@@ -16,6 +16,10 @@
     <string name="favorite_movie">Favorite</string>
     <string name="ad_to_favorite">Add To Favorite</string>
     <string name="remove_to_favorite">Remove From Favorite</string>
-
+    <string name="appwidget_text">Cataloge Movie</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Data</string>
+    <string name="alarm">Alarm</string>
+    <string name="message_daily">Cataloge Movie is missing you</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>

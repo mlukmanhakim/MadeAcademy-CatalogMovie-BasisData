@@ -8,7 +8,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:background="@android:color/white"
-    tools:context="com.dicoding.lukman.catalogmovie.activiy.DetailMovie">
+    tools:context=".ui.activiy.DetailMovie">
 
 
     <android.support.design.widget.AppBarLayout

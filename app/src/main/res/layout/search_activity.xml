@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context="com.dicoding.lukman.catalogmovie.activiy.ActivitySearch">
+    tools:context=".ui.activiy.ActivitySearch">
     <include layout="@layout/app_bar_main"/>
 
 
